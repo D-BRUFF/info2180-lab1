@@ -1,1 +1,4 @@
-# info2180-lab1
+# Info2180 Lab 1
+
+This is lab 1 for Duhaynie Bruff
+
